@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(16, 116, 150);
+    background: radial-gradient(blue, lightblue, skyblue);;
 }
 
 .container{
